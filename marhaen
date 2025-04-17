@@ -7,7 +7,7 @@ https://hls4-eu.zcdn.stream/2547a4aeec4cbf22af1b93fcff362b95/2022-01-31/video.m3
 #KODIPROP:inputstream=inputstream.adaptive
 https://hls4-eu.zcdn.stream/2547a4aeec4cbf22af1b93fcff362b95/2022-01-31/video.m3u8?auth=e4863fc435356d0efa68ddce90b83bee&expires=1744921122&type=edge&asn=4788&node=vCHJzjqQLTnh0vUUZ4MRPwrX3zANZ2BshoVBVn274aGhdJeLHmQSf45EtTmWH8w0e3eh5nLtOcRSumTc0sDzUA
 
-#EXTINF:-1 group-title="Hora De Aventura ova 2",Hora De Aventura ova 2
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tv1.png", trial
 https://r6---sn-gpv7enek.googlevideo.com/videoplayback?requiressl=yes&id=561786bb9928a7cf&itag=18&source=blogger&app=blogger&ip=2804:14d:5c62:975c:b1eb:570d:2d1d:d242&ipbits=0&expire=1497748645&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,sc,source&signature=01A7B3673E2585AAF115EF5D0E4B7B4924E0113B.150AA65F26B109981019D3849DF8DB46E8AB1C41&key=cms1&cms_redirect=yes&mm=30&mn=sn-gpv7enek&ms=nxu&mt=1495601061&mv=m&pl=46&sc=yes
 
 
