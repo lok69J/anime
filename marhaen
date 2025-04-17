@@ -1,6 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tv1.png", 101 TV1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://rr4---sn-uh-30alz.googlevideo.com/videoplayback?expire=1744909337&ei=mcMAaJGRBJ600_wPvtSLkQY&ip=2001:e68:542c:46ae:e86f:94dc:f2df:3ec8&id=5f7dae38ae224c66&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1744880537,&mh=ck&mm=31&mn=sn-uh-30alz&ms=au&mv=m&mvi=4&pcm2cms=yes&pl=48&rms=au,au&susc=bl&eaua=0CHOiWSBe-c&mime=video/mp4&vprv=1&rqh=1&dur=1519.978&lmt=1602878630388159&mt=1744879977&txp=1319224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRAIgU30sWcfZuJCeDW1de2qo4gMCAYz1kCz0XbFxJzageJACIAOiHCYUmQ1oIXPII90md3YES5qOrqlrzCLGoug0dPf9&lsparams=met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms&lsig=ACuhMU0wRQIhAPCLobpnBOkuNYoUJl0BRJibQ2hYUgvH4N85xc7t2yOJAiA0XVjuyFAyeNLf5b9HpnS4tzuThed7lEvwO84OG5kB-A%3D%3D&cpn=hNBFgpYfvE-lEnaJ&c=WEB_EMBEDDED_PLAYER&cver=1.20250414.05.00
