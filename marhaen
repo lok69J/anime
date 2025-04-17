@@ -2,3 +2,14 @@
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tv1.png", trial
 https://hls4-eu.zcdn.stream/2547a4aeec4cbf22af1b93fcff362b95/2022-01-31/video.m3u8?auth=e4863fc435356d0efa68ddce90b83bee&expires=1744921122&type=edge&asn=4788&node=vCHJzjqQLTnh0vUUZ4MRPwrX3zANZ2BshoVBVn274aGhdJeLHmQSf45EtTmWH8w0e3eh5nLtOcRSumTc0sDzUA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/9cbda7fe-453f-339e-803b-eb595de23872.jpeg" group-title="▶ HBO MAX", Action-The Peacemaker
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://hls4-eu.zcdn.stream/2547a4aeec4cbf22af1b93fcff362b95/2022-01-31/video.m3u8?auth=e4863fc435356d0efa68ddce90b83bee&expires=1744921122&type=edge&asn=4788&node=vCHJzjqQLTnh0vUUZ4MRPwrX3zANZ2BshoVBVn274aGhdJeLHmQSf45EtTmWH8w0e3eh5nLtOcRSumTc0sDzUA
+https://hls4-eu.zcdn.stream/2547a4aeec4cbf22af1b93fcff362b95/2022-01-31/video.m3u8?auth=e4863fc435356d0efa68ddce90b83bee&expires=1744921122&type=edge&asn=4788&node=vCHJzjqQLTnh0vUUZ4MRPwrX3zANZ2BshoVBVn274aGhdJeLHmQSf45EtTmWH8w0e3eh5nLtOcRSumTc0sDzUA
+
+
+
+
+
