@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Zhivi.ru" tvg-logo="https://i.imgur.com/LPqySGk.png" group-title="Lifestyle",ЖИВИ!
-http://31.148.48.15/Zhivi/index.m3u8
+#EXTINF:-1 tvg-id="WeihaiOceanChannel.cn" tvg-logo="https://www.tvchinese.net/uploads/tv/weihaihaiyang.jpg" group-title="own",Ocean Channel
+file:///android_asset/www/mwebp/readquran.html
 
 #EXTINF:-1 tvg-id="WeihaiOceanChannel.cn" tvg-logo="https://www.tvchinese.net/uploads/tv/weihaihaiyang.jpg" group-title="Lifestyle",Weihai Ocean Channel
 http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
